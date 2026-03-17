@@ -7,8 +7,8 @@ This repository contains all the [design](/Design/) files and [firmware](/Code/)
 ![Robot Image](/Design/Vizualize/Full%20Assembly.png)
 
 <p align="center">
-  <img src="/Public/74bad68f-a2de-40cd-be93-ab241adf3510.jpg" width="45%">
-  <img src="/Public/f2884f0a-7d66-4f97-b89a-05fca45c3a4b.jpg" width="45%">
+  <img src="/Public/74bad68f-a2de-40cd-be93-ab241adf3510.jpg" width="50%">
+  <img src="/Public/f2884f0a-7d66-4f97-b89a-05fca45c3a4b.jpg" width="50%">
 </p>
 
 ### Component Selection
